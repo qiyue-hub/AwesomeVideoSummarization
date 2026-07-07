@@ -87,7 +87,13 @@ Summarization; video, text
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32374)] [[code](https://github.com/hanghuacs/V2Xum-LLM)] [[homepage](https://hanghuacs.github.io/v2xum/)]
 
-**Hybrid Siamese Masked Autoencoders as Unsupervised Video Summarizer**, Yifei Xu; Zaiqiang Wu; Li Li; Siqi Li; Wenlong Li; Mingqi Li, TCSVT2025
+**SummDiff: Generative Modeling of Video Summarization with Diffusion**, Kwanseok Kim*, Jaehoon Hahm*, Sumin Kim, Jinwhan Sul, Byunghak Kim, Joonseok Lee, ICCV2025
+
+Summarization; Fully-supervised; SumMe, TVSum, Mr. HiSum
+
+[[pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_SummDiff_Generative_Modeling_of_Video_Summarization_with_Diffusion_ICCV_2025_paper.pdf)] [[code](https://github.com/Kwanseok-K/SummDiff)]
+
+**(H-SMAE) Hybrid Siamese Masked Autoencoders as Unsupervised Video Summarizer**, Yifei Xu; Zaiqiang Wu; Li Li; Siqi Li; Wenlong Li; Mingqi Li, TCSVT2025
 
 Summarization; Unsupervised
 
@@ -142,6 +148,12 @@ V2T Summarization; video, text
 Video Highlight Detection, Temporal Video Grounding, Dense Video Captioning; YouCook2, Charades-STA, QVHighlights; 
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[code](https://github.com/RenShuhuai-Andy/TimeChat)]
+
+**CSTA: CNN-based Spatiotemporal Attention for Video Summarization**, Son, Jaewon and Park, Jaehun and Kim, Kwangsu, CVPR2024
+
+Summarization; Fully-supervised; SumMe, TVSum
+
+[[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Son_CSTA_CNN-based_Spatiotemporal_Attention_for_Video_Summarization_CVPR_2024_paper.pdf)] [[code](https://github.com/thswodnjs3/CSTA/tree/master)]
 
 **Exploring Domain Incremental Video Highlights Detection with the LiveFood Benchmark**, Sen Pei, Shixiong Xu, Xiaojie Jin, AAAI2024
 
@@ -247,7 +259,7 @@ Summarization; Self-Supervised
 
 Summarization; Unsupervised; video, text
 
-**Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
+**(PGL-Sum) Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
 
 [[pdf](https://www.iti.gr/~bmezaris/publications/ism2021a_preprint.pdf)] [[code](https://github.com/e-apostolidis/PGL-SUM)]
 
@@ -356,6 +368,10 @@ Summarization; Unsupervised
 **Video summarization via semantic attended networks**, Huawei Wei, Bingbing Ni, Yichao Yan, Huanyu Yu, Xiaokang Yang, and Chen Yao, AAAI2018
 
 Summarization; Unsupervised
+
+**Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward**, Zhou, Kaiyang and Qiao, Yu and Xiang, Tao, AAAI2018
+
+[[code](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce/tree/master)] [[pdf](https://arxiv.org/abs/1801.00054)]
 
 **Extractive video summarizer with memory augmented neural networks**, Feng, L.; Li, Z.; Kuang, Z.; and Zhang, W, MM2018
 

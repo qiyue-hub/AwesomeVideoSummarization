@@ -279,9 +279,11 @@ Summarization; Supervised
 
 Summarization; Supervised & Unsupervised
 
-**Dsnet: A flexible detect-to-summarize network for video summarization**, Wencheng Zhu, Jiwen Lu, Jiahao Li, and Jie Zhou, TIP2021
+**DSNet: A Flexible Detect-to-Summarize Network for Video Summarization**, Wencheng Zhu, Jiwen Lu, Jiahao Li, and Jie Zhou, TIP2021
 
 Summarization; Supervised
+
+[[pdf](https://ieeexplore.ieee.org/document/9275314)] [[code](https://github.com/li-plus/DSNet)]
 
 **Supervised video summarization via multiple feature sets with parallel attention**, Ghauri, J. A.; Hakimov, S.; and Ewerth, R., ICME2021
 

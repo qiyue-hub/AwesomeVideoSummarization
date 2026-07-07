@@ -189,6 +189,14 @@ V2T Summarization
 
 [[pdf](https://dl.acm.org/doi/10.1145/3652583.3657582)]
 
+**Spatiotemporal Feature Fusion for Video Summarization**, Shamal Kashid, Lalit K. Awasthi, Krishan Berwal, Parul Saini, IEEE MultiMedia2024
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10601605/authors#authors)] [No code]
+
+**Does spatio-temporal information benefit the video summarization task?**, Aashutosh Ganesh, Mirela Popa, Daan Odijk, Nava Tintarev, CEURW2024
+
+[[pdf](https://cris.maastrichtuniversity.nl/en/publications/does-spatio-temporal-information-benefit-the-video-summarization--2/?__cf_chl_f_tk=sIekIzfKdcHTF.n8VeptSO5VBhXxgqpoO_7fQS5DYKo-1783435833-1.0.1.1-itUYQ3.BvR_jdvSjk0EAyilWUC7E_sDH3L8Ja.jwcUM)]
+
 ## 2023
 
 **VideoXum: Cross-modal Visual and Textural Summarization of Videos**, Lin, Jingyang and Hua, Hang and Chen, Ming and Li, Yikang and Hsiao, Jenhao and Ho, Chiuman and Luo, Jiebo, TMM2023

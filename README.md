@@ -215,6 +215,10 @@ Summarization; Supervised; video, text, sound
 
 [[pdf](https://arxiv.org/pdf/2303.07284)] [[code](https://github.com/boheumd/A2Summ)] [[project](https://boheumd.github.io/A2Summ/)]
 
+**(SSPVS) Progressive Video Summarization via Multimodal Self-supervised Learning**, Haopeng Li, Qiuhong Ke, Mingming Gong, Tom Drummond, WACV2023
+
+[[pdf](https://arxiv.org/pdf/2201.02494)] [[code](https://github.com/HopLee6/SSPVS-PyTorch)]
+
 **Self-Supervised Adversarial Video Summarizer With Context Latent Sequence Learning**, Yifei Xu , Xiangshun Li, Litong Pan, Weiguang Sang, Pingping Wei, and Li Zhu, TCSVT2023.
 
 Summarization; Unsupervised
@@ -266,6 +270,10 @@ Summarization; Self-Supervised
 [[pdf](https://papers.nips.cc/paper_files/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)] [[code](https://github.com/medhini/clip_it)]
 
 Summarization; Unsupervised; video, text
+
+**Multiple Pairwise Ranking Networks for Personalized Video Summarization**, Yassir Saquil and Da Chen and Yuan He and Chuan Li and Yongliang Yang, ICCV2021
+
+[[pdf](https://ieeexplore.ieee.org/document/9710398)] [[code](https://github.com/saquil/Multi-ranker)]
 
 **(PGL-Sum) Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
 
